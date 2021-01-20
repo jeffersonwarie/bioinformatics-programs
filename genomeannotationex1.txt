@@ -1,0 +1,50 @@
+Escherichia coli str. K-12 substr. MG1655, complete genome. - 1..4641652
+4140 proteins
+Location	Strand	Length	PID	Gene	Synonym	Code	COG	Product
+190..255	+	21	16127995	thrL	b0001	-	-	thr operon leader peptide
+337..2799	+	820	16127996	thrA	b0002	-	COG0527E,COG0527E	Bifunctional aspartokinase/homoserine dehydrogenase 1
+2801..3733	+	310	16127997	thrB	b0003	-	COG0083E,COG0083E	homoserine kinase
+3734..5020	+	428	16127998	thrC	b0004	-	COG0498E,COG0498E	L-threonine synthase
+5234..5530	+	98	16127999	yaaX	b0005	-	-	DUF2502 family putative periplasmic protein
+5683..6459	-	258	16128000	yaaA	b0006	-	COG3022S,COG3022S	peroxide resistance protein, lowers intracellular iron
+6529..7959	-	476	16128001	yaaJ	b0007	-	COG1115E,COG1115E	putative transporter
+8238..9191	+	317	16128002	talB	b0008	-	COG0176G,COG0176G	transaldolase B
+9306..9893	+	195	16128003	mog	b0009	-	COG0521H,COG0521H	molybdochelatase incorporating molybdenum into molybdopterin
+9928..10494	-	188	16128004	satP	b0010	-	COG1584S,COG1584S	succinate-acetate transporter
+10643..11356	-	237	16128005	yaaW	b0011	-	COG4735S,COG4735S	UPF0174 family protein
+11382..11786	-	134	16128007	yaaI	b0013	-	-	UPF0412 family protein
+12163..14079	+	638	16128008	dnaK	b0014	-	COG0443O,COG0443O	chaperone Hsp70, with co-chaperone DnaJ
+14168..15298	+	376	16128009	dnaJ	b0015	-	COG0484O,COG0484O	chaperone Hsp40, DnaK co-chaperone
+15445..16557	+	370	16128010	insL1	b0016	-	COG3385L,COG3385L	IS186 transposase
+16751..16960	-	69	16128012	mokC	b0018	-	-	regulatory protein for HokC, overlaps CDS of hokC
+16751..16903	-	50	49175991	hokC	b4412	-	-	toxic membrane protein, small
+17489..18655	+	388	16128013	nhaA	b0019	-	COG3004P,COG3004P	sodium-proton antiporter
+18715..19620	+	301	16128014	nhaR	b0020	-	COG0583K,COG0583K	transcriptional activator of nhaA
+19811..20314	-	167	16128015	insB1	b0021	-	COG1662L,COG1662L	IS1 transposase B
+20233..20508	-	91	16128016	insA	b0022	-	COG3677L,COG3677L	IS1 repressor TnpA
+20815..21078	-	87	16128017	rpsT	b0023	-	COG0268J,COG0268J	30S ribosomal subunit protein S20
+21181..21399	+	72	16128018	yaaY	b0024	-	-	uncharacterized protein
+21407..22348	+	313	16128019	ribF	b0025	-	COG0196H,COG0196H	bifunctional riboflavin kinase/FAD synthetase
+22391..25207	+	938	16128020	ileS	b0026	-	COG0060J,COG0060J	isoleucyl-tRNA synthetase
+25207..25701	+	164	16128021	lspA	b0027	-	COG0597MU,COG0597MU	prolipoprotein signal peptidase (signal peptidase II)
+25826..26275	+	149	16128022	fkpB	b0028	-	COG1047O,COG1047O	FKBP-type peptidyl-prolyl cis-trans isomerase (rotamase)
+26277..27227	+	316	16128023	ispH	b0029	-	COG0761IM,COG0761IM	4-hydroxy-3-methylbut-2-enyl diphosphate reductase, 4Fe-4S protein
+27293..28207	+	304	16128024	rihC	b0030	-	COG1957F,COG1957F	ribonucleoside hydrolase 3
+28374..29195	+	273	16128025	dapB	b0031	-	COG0289E,COG0289E	dihydrodipicolinate reductase
+29651..30799	+	382	16128026	carA	b0032	-	COG0505EF,COG0505EF	carbamoyl phosphate synthetase small subunit, glutamine amidotransferase
+30817..34038	+	1073	16128027	carB	b0033	-	COG0458EF,COG0458EF	carbamoyl-phosphate synthase large subunit
+34300..34695	+	131	90111079	caiF	b0034	-	-	cai operon transcriptional activator
+34781..35371	-	196	90111080	caiE	b0035	-	COG0663R,COG0663R	stimulator of CaiD and CaiB enzyme activities
+35377..36162	-	261	221800779	caiD	b0036	-	COG1024I,COG1024I	carnitinyl-CoA dehydratase
+36271..37824	-	517	221800780	caiC	b0037	-	COG0318IQ,COG0318IQ	putative crotonobetaine/carnitine-CoA ligase
+37898..39115	-	405	16128032	caiB	b0038	-	COG1804C,COG1804C	crotonobetainyl CoA:carnitine CoA transferase
+39244..40386	-	380	16128033	caiA	b0039	-	COG1960I,COG1960I	crotonobetaine reductase subunit II, FAD-binding
+40417..41931	-	504	16128034	caiT	b0040	-	COG1292M,COG1292M	putative transporter
+42403..43173	+	256	90111081	fixA	b0041	-	COG2086C,COG2086C	anaerobic carnitine reduction putative electron transfer flavoprotein subunit
+43188..44129	+	313	16128036	fixB	b0042	-	COG2025C,COG2025C	putative electron transfer flavoprotein, NAD/FAD-binding domain and ETFP adenine nucleotide-binding domain-like protein
+44180..45466	+	428	16128037	fixC	b0043	-	COG0644C,COG0644C	putative oxidoreductase
+45463..45750	+	95	16128038	fixX	b0044	-	COG2440C,COG2440C	putative 4Fe-4S ferredoxin-type protein
+45807..47138	+	443	16128039	yaaU	b0045	-	COG2271G,COG2271G	putative transporter
+47246..47776	+	176	16128040	kefF	b0046	-	COG2249R,COG2249R	potassium-efflux system ancillary protein for KefC, glutathione-regulated; quinone oxidoreductase, FMN-dependent
+47769..49631	+	620	16128041	kefC	b0047	-	COG0475P,COG0475P	potassium:proton antiporter
+49823..50302	+	159	16128042	folA	b0048	-	COG0262H,COG0262H	dihydrofolate reductase

@@ -1,0 +1,18 @@
+1. Download genome sequence of 10 organism from NCBI database and generate GCSkew diagram for those organism.
+gcskew.py
+
+2. Download genome sequence of 10 organism from NCBI database and generate Complementary nucleotide Frequency distribution diagrams for those organism.
+complementarynucleotide.py
+
+3. Using dynamic programming, develop a software for pairwise global sequence alignment.
+globalalignment.py
+
+4. Develop a program for finding CAI values of genes of an organism. The program should accept a file containg genes of the organism.
+codonadaptationindexwithreferenceset.py
+
+5. Construct the synteny diagram for a pair of genome annotations.
+syntenydiagram.py
+
+6. Develop a strategy for finding mutation in genome sequence alignment and construct phylogenetic tree from these mutations using UPGMA algorithm.
+
+ANSWER ANY 5. tOTAL MARKS 5X5=25

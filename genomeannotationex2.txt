@@ -1,0 +1,50 @@
+Escherichia coli 55989 chromosome, complete genome - 1..5154862
+4755 proteins
+Location	Strand	Length	PID	Gene	Synonym	Code	COG	Product
+203..268	+	21	218693477	thrL	EC55989_5066	-	-	thr operon leader peptide
+349..2811	+	820	218693478	thrA	EC55989_0002	-	COG0527E	bifunctional aspartokinase I/homoserine dehydrogenase I
+2813..3745	+	310	218693479	thrB	EC55989_0003	-	COG0083E	homoserine kinase
+3746..5032	+	428	218693480	thrC	EC55989_0004	-	COG0498E	threonine synthase
+5246..5542	+	98	218693481	yaaX	EC55989_0005	-	-	hypothetical protein
+5695..6471	-	258	218693482	yaaA	EC55989_0006	-	COG3022S	hypothetical protein
+6541..7971	-	476	218693483	yaaJ	EC55989_0007	-	COG1115E	amino acid sodium/proton transporter
+8250..9203	+	317	218693484	talB	EC55989_0009	-	COG0176G	transaldolase B
+9318..9905	+	195	218693485	mogA	EC55989_0010	-	COG0521H	molybdenum cofactor biosynthesis protein MogA
+9940..10506	-	188	218693486	yaaH	EC55989_0011	-	COG1584S	hypothetical protein
+10655..11368	-	237	218693487	htpY	EC55989_0012	-	COG4735S	hypothetical protein
+11394..11798	-	134	218693488	yaaI	EC55989_0013	-	-	hypothetical protein
+12175..14091	+	638	218693489	dnaK	EC55989_0014	-	COG0443O	molecular chaperone DnaK
+14180..15310	+	376	218693490	dnaJ	EC55989_0015	-	COG0484O	molecular chaperone DnaJ
+16152..17318	+	388	218693491	nhaA	EC55989_0016	-	COG3004P	pH-dependent sodium/proton antiporter
+17378..18283	+	301	218693492	nhaR	EC55989_0017	-	COG0583K	transcriptional activator NhaR
+18322..19281	-	319	218693493	-	EC55989_0018	-	-	hypothetical protein
+22776..23039	-	87	218693494	rpsT	EC55989_0022	-	COG0268J	30S ribosomal protein S20
+23142..23360	+	72	218693495	yaaY	EC55989_0023	-	-	hypothetical protein
+23368..24309	+	313	218693496	ribF	EC55989_0024	-	COG0196H	bifunctional riboflavin kinase/FMN adenylyltransferase
+24352..27168	+	938	218693497	ileS	EC55989_0025	-	COG0060J	isoleucyl-tRNA synthetase
+27168..27662	+	164	218693498	lspA	EC55989_0026	-	COG0597MU	lipoprotein signal peptidase
+27750..28199	+	149	218693499	fkpB	EC55989_0027	-	COG1047O	FKBP-type peptidylprolyl isomerase
+28201..29151	+	316	218693500	ispH	EC55989_0028	-	COG0761IM	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+29217..30131	+	304	218693501	rihC	EC55989_0029	-	COG1957F	ribonucleoside hydrolase RihC
+30298..31119	+	273	218693502	dapB	EC55989_0030	-	COG0289E	dihydrodipicolinate reductase
+31575..32723	+	382	218693503	carA	EC55989_0031	-	COG0505EF	carbamoyl phosphate synthase small subunit
+32741..35962	+	1073	218693504	carB	EC55989_0032	-	COG0458EF	carbamoyl phosphate synthase large subunit
+35970..36188	-	72	218693505	-	EC55989_0033	-	-	hypothetical protein
+36223..36618	+	131	218693506	caiF	EC55989_0034	-	-	DNA-binding transcriptional activator CaiF
+36704..37294	-	196	218693507	caiE	EC55989_0035	-	COG0663R	carnitine operon protein CaiE
+37300..38085	-	261	229598869	caiD	EC55989_0036	-	COG1024I	carnitinyl-CoA dehydratase
+38194..39762	-	522	218693509	caiC	EC55989_0037	-	COG0318IQ	crotonobetaine/carnitine-CoA ligase
+39821..41038	-	405	218693510	caiB	EC55989_0038	-	COG1804C	crotonobetainyl-CoA:carnitine CoA-transferase
+41167..42309	-	380	218693511	caiA	EC55989_0039	-	COG1960I	crotonobetainyl-CoA dehydrogenase
+42340..43854	-	504	218693512	caiT	EC55989_0040	-	COG1292M	L-carnitine/gamma-butyrobetaine antiporter
+44328..45098	+	256	218693513	fixA	EC55989_0041	-	COG2086C	electron transfer flavoprotein FixA
+45113..46054	+	313	218693514	fixB	EC55989_0042	-	COG2025C	electron transfer flavoprotein FixB
+46105..47391	+	428	218693515	fixC	EC55989_0043	-	COG0644C	oxidoreductase FixC
+47388..47675	+	95	218693516	fixX	EC55989_0044	-	COG2440C	4Fe-4S ferredoxin
+47734..49065	+	443	218693517	yaaU	EC55989_0045	-	COG2271G	transporter
+49173..49703	+	176	218693518	kefF	EC55989_0046	-	COG2249R	glutathione-regulated potassium-efflux system ancillary protein KefF
+49696..51558	+	620	218693519	kefC	EC55989_0047	-	COG0475P	glutathione-regulated potassium-efflux system protein KefC
+51750..52229	+	159	218693520	folA	EC55989_0048	-	COG0262H	dihydrofolate reductase
+52307..53149	-	280	218693521	apaH	EC55989_0049	-	COG0639T	diadenosine tetraphosphatase
+53156..53533	-	125	218693522	apaG	EC55989_0050	-	COG2967P	ApaG protein
+53536..54357	-	273	218693523	ksgA	EC55989_0051	-	COG0030J	dimethyladenosine transferase
